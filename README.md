@@ -1,1 +1,2 @@
 #  "do while" döngüsü istifadə edərək nömrəni istifadəçidən alırıq. İstifadəçi qiymətləndirməsini təsadüfi rəqəmlə müqayisə edib və lazımi dəyərləri ekranda çap edirik.
+https://github.com/ZamannIsmiyev/Texmin-Etmek#do-while-d%C3%B6ng%C3%BCs%C3%BC-istifad%C9%99-ed%C9%99r%C9%99k-n%C3%B6mr%C9%99ni-istifad%C9%99%C3%A7id%C9%99n-al%C4%B1r%C4%B1q-i%CC%87stifad%C9%99%C3%A7i-qiym%C9%99tl%C9%99ndirm%C9%99sini-t%C9%99sad%C3%BCfi-r%C9%99q%C9%99ml%C9%99-m%C3%BCqayis%C9%99-edib-v%C9%99-laz%C4%B1mi-d%C9%99y%C9%99rl%C9%99ri-ekranda-%C3%A7ap-edirik
